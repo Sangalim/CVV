@@ -1,0 +1,42 @@
+unit uFrmListaDePessoas;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants,
+  System.Classes, Vcl.Graphics, Vcl.Controls, Vcl.Forms, Vcl.Dialogs,
+  Vcl.StdCtrls;
+
+type
+  TFrmListaDePessoas = class(TForm)
+    GroupBox1: TGroupBox;
+  private
+    { Private declarations }
+    class var FInstancia: TFrmListaDePessoas;
+    class function Instancia: TFrmListaDePessoas;
+  public
+    { Public declarations }
+    class procedure Exibe;
+  end;
+
+implementation
+
+{$R *.dfm}
+
+{ TFrmListaDePessoas }
+
+class procedure TFrmListaDePessoas.Exibe;
+begin
+  Instancia.ShowModal;
+end;
+
+class function TFrmListaDePessoas.Instancia: TFrmListaDePessoas;
+begin
+  if not(Assigned(FInstancia)) then
+  begin
+    FInstancia := TFrmListaDePessoas.Create(Application);
+  end;
+  Result := FInstancia;
+end;
+
+end.

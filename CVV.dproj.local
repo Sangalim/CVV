@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/08 15:25:25.000.060,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/21 19:30:32.000.930,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/01 13:23:13.000.168,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/02 18:17:10.000.396,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/22 01:03:17.000.503,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/22 01:04:44.000.198,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/01 23:25:40.000.361,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/09 00:27:29.000.300,=C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/09 00:27:59.000.080,C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Marco\Documents\_Projetos\uCVVMain.dfm</Transaction>
+    <Transaction>2018/05/09 00:27:59.000.080,C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Marco\Documents\_Projetos\uCVVMain.pas</Transaction>
+    <Transaction>2018/05/09 00:28:04.000.926,C:\Users\Marco\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Marco\Documents\_Projetos\CVV.dproj</Transaction>
+    <Transaction>2018/05/09 00:28:43.000.715,=C:\Users\Marco\Documents\_Projetos\Unit1.pas</Transaction>
+    <Transaction>2018/05/09 00:29:01.000.737,C:\Users\Marco\Documents\_Projetos\Unit1.dfm=C:\Users\Marco\Documents\_Projetos\uDM.dfm</Transaction>
+    <Transaction>2018/05/09 00:29:01.000.737,C:\Users\Marco\Documents\_Projetos\Unit1.pas=C:\Users\Marco\Documents\_Projetos\uDM.pas</Transaction>
+    <Transaction>2018/05/09 00:29:48.000.532,C:\Users\Marco\Documents\_Projetos\uCVVMain.pas=C:\Users\Marco\Documents\_Projetos\uFrmCVVMain.pas</Transaction>
+    <Transaction>2018/05/09 00:29:48.000.532,C:\Users\Marco\Documents\_Projetos\uCVVMain.dfm=C:\Users\Marco\Documents\_Projetos\uFrmCVVMain.dfm</Transaction>
+    <Transaction>2018/05/09 00:32:12.000.599,=C:\Users\Marco\Documents\_Projetos\Unit1.pas</Transaction>
+    <Transaction>2018/05/09 00:32:23.000.645,C:\Users\Marco\Documents\_Projetos\Unit1.pas=C:\Users\Marco\Documents\_Projetos\uDMRes.pas</Transaction>
+    <Transaction>2018/05/09 00:32:23.000.645,C:\Users\Marco\Documents\_Projetos\Unit1.dfm=C:\Users\Marco\Documents\_Projetos\uDMRes.dfm</Transaction>
+    <Transaction>2018/05/09 01:03:43.000.015,=C:\Users\Marco\Documents\_Projetos\Unit1.pas</Transaction>
+    <Transaction>2018/05/09 01:04:28.000.027,C:\Users\Marco\Documents\_Projetos\Unit1.dfm=C:\Users\Marco\Documents\_Projetos\CVV\Unit1.dfm</Transaction>
+    <Transaction>2018/05/09 01:04:28.000.027,C:\Users\Marco\Documents\_Projetos\Unit1.pas=C:\Users\Marco\Documents\_Projetos\CVV\Unit1.pas</Transaction>
+    <Transaction>2018/05/09 01:04:43.000.267,C:\Users\Marco\Documents\_Projetos\CVV.dproj=C:\Users\Marco\Documents\_Projetos\CVV\CVV.dproj</Transaction>
+    <Transaction>2018/05/09 01:05:38.000.114,C:\Users\Marco\Documents\_Projetos\CVV\Unit1.pas=C:\Users\Marco\Documents\_Projetos\CVV\uFrmListaDePessoas.pas</Transaction>
+    <Transaction>2018/05/09 01:05:38.000.114,C:\Users\Marco\Documents\_Projetos\CVV\Unit1.dfm=C:\Users\Marco\Documents\_Projetos\CVV\uFrmListaDePessoas.dfm</Transaction>
+    <Transaction>2018/05/09 01:06:05.000.165,C:\Users\Marco\Documents\_Projetos\uDM.dfm=C:\Users\Marco\Documents\_Projetos\CVV\uDM.dfm</Transaction>
+    <Transaction>2018/05/09 01:06:05.000.165,C:\Users\Marco\Documents\_Projetos\uDM.pas=C:\Users\Marco\Documents\_Projetos\CVV\uDM.pas</Transaction>
+    <Transaction>2018/05/09 01:06:13.000.600,C:\Users\Marco\Documents\_Projetos\uDMRes.dfm=C:\Users\Marco\Documents\_Projetos\CVV\uDMRes.dfm</Transaction>
+    <Transaction>2018/05/09 01:06:13.000.600,C:\Users\Marco\Documents\_Projetos\uDMRes.pas=C:\Users\Marco\Documents\_Projetos\CVV\uDMRes.pas</Transaction>
+    <Transaction>2018/05/09 01:06:22.000.635,C:\Users\Marco\Documents\_Projetos\uFrmCVVMain.pas=C:\Users\Marco\Documents\_Projetos\CVV\uFrmCVVMain.pas</Transaction>
+    <Transaction>2018/05/09 01:06:22.000.635,C:\Users\Marco\Documents\_Projetos\uFrmCVVMain.dfm=C:\Users\Marco\Documents\_Projetos\CVV\uFrmCVVMain.dfm</Transaction>
+    <Transaction>2018/05/09 01:35:25.000.066,=C:\Users\Marco\Documents\_Projetos\DelUnits\MinhaShell\uMinhaShell.pas</Transaction>
+    <Transaction>2018/05/09 01:47:40.585,=C:\Users\Marco\Documents\_Projetos\CVV\Unit1.pas</Transaction>
+    <Transaction>2018/05/09 01:48:34.173,C:\Users\Marco\Documents\_Projetos\CVV\uFrmTurnos.pas=C:\Users\Marco\Documents\_Projetos\CVV\Unit1.pas</Transaction>
+    <Transaction>2018/05/09 01:48:34.173,C:\Users\Marco\Documents\_Projetos\CVV\uFrmTurnos.dfm=C:\Users\Marco\Documents\_Projetos\CVV\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
